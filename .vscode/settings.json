@@ -1,0 +1,12 @@
+{
+    "java.debug.settings.console": "integratedTerminal",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "java.test.config": [
+        {
+            "name": "default"
+        }
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+}
